@@ -6,8 +6,6 @@ a demo of flvjs x egret engine
 - open with vscode
 - press F5
 
----
-
 ## Workflow
 - use `flvjs` generally, but is not necessary to append the `<video>` to the `<document>`
 - create a `<canvas>` to convert `<video>` data
